@@ -1,4 +1,4 @@
-module gopublic
+module github.com/jiehuze/gopublic
 
 go 1.14
 

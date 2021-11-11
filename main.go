@@ -1,8 +1,8 @@
-package test
+package main
 
 import (
 	log "github.com/sirupsen/logrus"
-	"gopublic/canUtil"
+	"github.com/jiehuzen/gopublic"
 )
 
 func main() {
