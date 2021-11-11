@@ -3,7 +3,7 @@ package canUtil
 import (
 	"encoding/json"
 	"fmt"
-	"gopublic/requester"
+	"github.com/jiehuze/gopublic/requester"
 	"net/http"
 )
 

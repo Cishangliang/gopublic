@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/jiehuze/gopublic/canUtil"
 	log "github.com/sirupsen/logrus"
-	"github.com/jiehuzen/gopublic"
 )
 
 func main() {
